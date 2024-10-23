@@ -1,0 +1,104 @@
+body{
+    background-image: url('resources/IMG_4907.JPG');
+    padding: 20px;
+}
+div{
+    text-align: center;
+}
+h1{
+    color: white;
+    background-color: tomato;
+}
+.tong1{
+    border: 10px solid cornflowerblue;
+    padding: 20px;
+    background-color: azure;
+    
+}
+.city{
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 15px;
+}
+
+video{
+    width: 25%;
+    height: auto;
+}
+.spelling-error{
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
+#n1{
+    background-color: blanchedalmond;
+    border: 5px solid saddlebrown;
+    color: saddlebrown;
+    
+}
+.Year1234{
+    text-align: center;
+    background-color: rgb(12, 72, 74);
+    padding: 10px;
+    border: 15px solid rgb(17, 74, 34);
+    color: white;
+    
+}
+.Year1{
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+
+}
+.together{
+    text-align: center;
+    color: brown;
+}
+.Year2{
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+}
+.Year3 {
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+}
+.Year4 {
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+}
+time{
+    color: brown;
+}
+.Ami{
+    text-align: center;
+    background-color: black;
+    padding: 15px;
+
+}
+.Future{
+    text-align: center;
+    background-color: rgb(239, 237, 237);
+    padding: 15px;
+
+
+}
+.FutureJourney{
+    text-align: right;
+}
+.CSTUStoryFuture {
+    text-align: right;
+}   
+.CSTUStoryJourney{
+    text-align: right;
+    
+}
+
