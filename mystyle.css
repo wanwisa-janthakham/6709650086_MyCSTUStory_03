@@ -174,4 +174,23 @@ video {
         font-size: 1.75rem;
     }
 }
+/* Styles for devices smaller than 768px (Phone) */
+@media screen and (max-width: 767px) {
+    .header h1 {
+        font-size: 1.5rem;
+    }
+
+    .content {
+        padding: 10px;
+        margin: 10px;
+    }
+
+    img, video {
+        max-width: 100%;
+    }
+
+    .content h2 {
+        font-size: 1.25rem;
+    }
+}
 }
