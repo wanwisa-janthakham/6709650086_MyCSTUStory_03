@@ -102,3 +102,50 @@ time{
     
 }
 
+
+/* Default styles for all devices */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+.futureJourney {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.header {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#myID {
+    text-align: center;
+    margin: 20px;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
